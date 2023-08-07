@@ -60,7 +60,7 @@ File: Layout CSS
 /* Content */
 .container .content{}
 .fondo-superior {
-	background-image:url('../../images/pixel-superior.png');
+	background-image:url('../../images/pixel-superior.webp');
 	background-position: top center;
 	background-repeat: no-repeat;
 	background-size: contain;
